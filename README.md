@@ -58,5 +58,3 @@ python app.py
 ## 👩‍💻 Author
 
 Shristi Yadav
-Data Science Student | Aspiring Data Engineer
-
