@@ -46,6 +46,9 @@ python app.py
 
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/68247b85-d5a5-43ec-8ebc-c7b9762e8bff" />
 
+![WhatsApp Image 2026-04-08 at 9 50 30 AM](https://github.com/user-attachments/assets/51311152-ed13-48ea-94a1-671c2dfd7818)
+
+
 
 ## 📈 Future Improvements
 
